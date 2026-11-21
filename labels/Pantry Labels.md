@@ -2,7 +2,7 @@
 
 Label macros for foods Patricia eats regularly (from package photos when available; otherwise from logged servings). Numbers marked "(estimate)" were generic values, not from her package.
 
-Restaurant orders (Chipotle, McDonald's) are in [[Food/Eating Out]].
+Restaurant orders (Chipotle, McDonald's) are in Food/Eating Out.
 
 ## Trader Joe's Organic Toasted Coconut Granola
 Serving 2/3 cup (60 g): 270 kcal, 5 P / 36 C / 13 F (10 g sat), 4 g fiber, 10 g sugar (9 g added), 85 mg sodium.
@@ -73,7 +73,7 @@ Saved 2026-11-17, from package photo.
 Serving 4 oz (113 g): 180 kcal, 32 P / 0 C / 7 F.
 Per 10 g: 16 kcal, 2.8 P / 0 C / 0.62 F.
 Not a pantry package; from the Nov 16 logged Chipotle side. Saved 2026-11-17.
-Usual full bowl: [[Food/Eating Out#Chipotle: Patricia's usual chicken bowl|Eating Out]].
+Usual full bowl: Eating Out.
 
 ## Oikos Pro yogurt drink, Mango Pineapple
 Serving 1 bottle (207 ml / 7 fl oz): 120 kcal, 23 P / 5 C / 1.5 F (1 g sat), 0 fiber, 4 g sugar (0 added), 120 mg sodium, 35 mg cholesterol.
