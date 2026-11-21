@@ -4,7 +4,7 @@ Makes 4 servings (2 oven-ready meal prep containers, half a container each).
 
 | Ingredient | Amount | kcal | P | C | F | Fiber |
 |---|---|---|---|---|---|---|
-| [[Taco Beef with Southwest Veggies]] | ~750 g cooked | 1,110 | 122 | 45 | 42 | 4.5 |
+| [[Food/Recipes/Taco Beef with Southwest Veggies]] | ~750 g cooked | 1,110 | 122 | 45 | 42 | 4.5 |
 | Jiffy corn muffin mix | 1 box (8.5 oz / ~240 g) | 1,015 | 12 | 172 | 31 | 6 |
 | 2% milk | ⅓ cup | 41 | 3 | 4 | 1.5 | 0 |
 | Large egg | 1 | 72 | 6 | 0.5 | 5 | 0 |

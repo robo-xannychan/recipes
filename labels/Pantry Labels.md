@@ -2,6 +2,8 @@
 
 Label macros for foods Patricia eats regularly (from package photos when available; otherwise from logged servings). Numbers marked "(estimate)" were generic values, not from her package.
 
+Restaurant orders (Chipotle, McDonald's) are in [[Food/Eating Out]].
+
 ## Trader Joe's Organic Toasted Coconut Granola
 Serving 2/3 cup (60 g): 270 kcal, 5 P / 36 C / 13 F (10 g sat), 4 g fiber, 10 g sugar (9 g added), 85 mg sodium.
 Per 10 g: 45 kcal, 0.83 P / 6.0 C / 2.17 F, 0.67 g fiber.
@@ -71,6 +73,7 @@ Saved 2026-11-17, from package photo.
 Serving 4 oz (113 g): 180 kcal, 32 P / 0 C / 7 F.
 Per 10 g: 16 kcal, 2.8 P / 0 C / 0.62 F.
 Not a pantry package; from the Nov 16 logged Chipotle side. Saved 2026-11-17.
+Usual full bowl: [[Food/Eating Out#Chipotle: Patricia's usual chicken bowl|Eating Out]].
 
 ## Oikos Pro yogurt drink, Mango Pineapple
 Serving 1 bottle (207 ml / 7 fl oz): 120 kcal, 23 P / 5 C / 1.5 F (1 g sat), 0 fiber, 4 g sugar (0 added), 120 mg sodium, 35 mg cholesterol.
@@ -99,12 +102,6 @@ Dressing is a Southwest ranch; high in fat. Source: bag label photo. Saved 2026-
 1 scoop (7.2 g): 5 kcal, 1 C, 20 mg sodium, 3 g citrulline, 1.6 g beta-alanine, 125 mg caffeine.
 2 scoops (14.4 g, her usual): 10 kcal, 0 P / 2 C / 0 F, 40 mg sodium, 6 g citrulline, 3.2 g beta-alanine, 250 mg caffeine.
 Source: tub label photo. Saved 2026-11-17.
-
-## Chipotle: Patricia's usual chicken bowl
-Chicken, light brown rice, black beans, fresh tomato salsa, roasted chili-corn salsa, romaine, fajita veggies.
-Estimated from Chipotle's published nutrition (standard portions; real scoops vary): ~545 kcal, 47 P / 66 C / 13 F, ~13 g fiber, ~1,700 mg sodium.
-Breakdown: chicken 180/32/0/7; light brown rice ~105/2/18/3; black beans 130/8/22/1.5; tomato salsa 25/1/4/0; corn salsa 80/3/16/1.5; romaine 5/0/1/0; fajita veggies 20/1/5/0.
-Lower-fiber pre-lift swap: white rice instead of brown, light or no beans.
 
 ## Welch's Fruit Snacks (mixed fruit)
 1 pouch (22.7 g): 70 kcal, 1P / 17C / 0F, 10 g sugar (8 g added), 0 mg sodium, 0 g fiber. Fat-free fast carbs; good pre-lift snack.
