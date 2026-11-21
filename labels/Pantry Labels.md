@@ -4,7 +4,8 @@ Label macros for foods Patricia eats regularly (from package photos when availab
 
 Restaurant orders (Chipotle, McDonald's) are in Food/Eating Out.
 
-## Trader Joe's Organic Toasted Coconut Granola
+## Trader Joe's Organic Toasted Coconut Granola (discontinued Nov 21, 2026)
+No longer stocked; tossed Nov 21, 2026. Avoid almond-containing products.
 Serving 2/3 cup (60 g): 270 kcal, 5 P / 36 C / 13 F (10 g sat), 4 g fiber, 10 g sugar (9 g added), 85 mg sodium.
 Per 10 g: 45 kcal, 0.83 P / 6.0 C / 2.17 F, 0.67 g fiber.
 Contains almond, coconut. Gluten free. Saved 2026-11-17.
