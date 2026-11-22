@@ -86,6 +86,7 @@ Serving 15 pieces (85 g), 21 per bag: 135 kcal, 1 P / ~16 C / 5 F (0.7 g sat), 2
 Per 10 g: 16 kcal, 0.1 P / 1.9 C / 0.6 F.
 Source: product page image (small; carbs hard to read). Saved 2026-11-17.
 Air fryer: 360°F, 15–18 min, shake at 10 and 15 min.
+Cooked yield: 180 g frozen → 85 g cooked (~47%). Log by frozen weight; if only cooked weight is known, multiply by ~2.1.
 
 ## Frozen sweet potato fries (other bag, earlier photo, brand unknown)
 Serving 15 pieces (85 g): 120 kcal, 2 P / 17 C / 6 F, 3 g fiber, 9 g sugar, 55 mg sodium.
@@ -128,3 +129,13 @@ Per 10 g: 19 kcal, 1.0 P / 0.6 C / 1.6 F. Saved 2026-11-18, from package photo.
 ## Kirkland Signature Everything Bagel (Costco bakery)
 Serving 1 bagel (113 g): 330 kcal, 11 P / 64 C / 3 F (0.5 g sat), 3 g fiber, 8 g sugar (5 g added), 570 mg sodium.
 Per 10 g: 29 kcal, 0.97 P / 5.7 C / 0.27 F, 0.27 g fiber. Saved 2026-11-18, from costco.com label.
+
+## Cooking yields (raw → cooked, measured by Patricia)
+Use to convert cooked weights back to raw for logging. Air fried unless noted.
+
+| Food | Raw | Cooked | Cooked ÷ raw | Measured |
+|------|-----|--------|--------------|----------|
+| Brussels sprouts | 300 g | 200 g | ~0.67 | 2026-11-21 |
+| Baby bell peppers | 120 g | 62 g | ~0.52 | 2026-11-21 |
+| Frozen sweet potato fries (Russet House) | 180 g frozen | 85 g | ~0.47 | 2026-11-21 |
+| Taco beef with Southwest veggies (2 lb 90/10 beef, drained) | — | 1,175 g batch | see recipe | 2026-11 |
