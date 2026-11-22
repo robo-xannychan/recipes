@@ -94,6 +94,11 @@ Serving 15 pieces (85 g): 120 kcal, 2 P / 17 C / 6 F, 3 g fiber, 9 g sugar, 55 m
 Serving 1 patty (64 g): 120 kcal, 1 P / 15 C / 6 F (1 g sat), 1 g fiber, 0 sugar, 250 mg sodium. 10 per box. Air fried, no added oil.
 Source: box label photo. Updated 2026-11-17.
 
+## Main St Bistro Yukon Gold Mashed Potatoes (Reser's)
+Serving 1/2 cup (140 g), about 6 per container: 150 kcal, 3 P / 19 C / 7 F (4.5 g sat), 2 g fiber, 2 g sugar (0 added), 550 mg sodium, 20 mg cholesterol.
+Per 100 g: 107 kcal, 2.1 P / 13.6 C / 5 F, 1.4 g fiber.
+Ingredients: Yukon Gold potatoes, whole milk, butter, cream, sea salt. Contains milk. Microwave 4 min, stir, 1 more min. Source: box label photo. Saved 2026-11-21.
+
 ## Taylor Farms Southwest Power salad kit
 Serving 1 cup (~3 per bag): 130 kcal, 7 P / 7 C / 9 F (2.5 g sat), 2 g fiber, 2 g sugar, 270 mg sodium.
 Whole bag (with dressing and toppings): 390 kcal, 20 P / 21 C / 27 F (7 g sat), 7 g fiber, 7 g sugar, 820 mg sodium.
