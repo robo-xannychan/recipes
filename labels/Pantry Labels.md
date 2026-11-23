@@ -4,6 +4,13 @@ Label macros for foods Patricia eats regularly (from package photos when availab
 
 Restaurant orders (Chipotle, McDonald's) are in Food/Eating Out.
 
+## Nature Valley Protein Granola, Oats & Honey
+Current granola since Nov 23, 2026 (replaces the TJ's coconut granola). Almond-free: ingredients list soy only.
+Serving 2/3 cup (65 g): 280 kcal, 13 P / 41 C / 7 F (1 g sat), 4 g fiber, 16 g sugar (15 g added), 170 mg sodium. About 5 servings per bag.
+Snack serving 1 oz (28 g): 120 kcal, 5 P / 18 C / 3 F, 2 g fiber, 7 g sugar (6 g added), 75 mg sodium.
+Per 10 g: 43 kcal, 2.0 P / 6.3 C / 1.08 F, 0.62 g fiber.
+Ingredients: whole grain oats, sugar, soy protein isolate, canola and/or sunflower oil, honey, molasses, rice starch, soy lecithin, baking soda, salt, natural flavor, vitamin E. Contains soy. Saved 2026-11-23.
+
 ## Trader Joe's Organic Toasted Coconut Granola (discontinued Nov 21, 2026)
 No longer stocked; tossed Nov 21, 2026. Avoid almond-containing products.
 Serving 2/3 cup (60 g): 270 kcal, 5 P / 36 C / 13 F (10 g sat), 4 g fiber, 10 g sugar (9 g added), 85 mg sodium.
