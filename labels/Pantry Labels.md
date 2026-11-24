@@ -17,7 +17,12 @@ Serving 2/3 cup (60 g): 270 kcal, 5 P / 36 C / 13 F (10 g sat), 4 g fiber, 10 g 
 Per 10 g: 45 kcal, 0.83 P / 6.0 C / 2.17 F, 0.67 g fiber.
 Contains almond, coconut. Gluten free. Saved 2026-11-17.
 
-## Canadian bacon (3 slices = 64 g)
+## Jones Dairy Farm Canadian Bacon, Hickory Smoked (center cut pork loin, 6 oz pack)
+3 slices (51 g): 60 kcal, 10 P / 1 C / 1.5 F (0.5 g sat, 0 trans), 0 fiber, <1 g sugar (<1 g added), 30 mg cholesterol, 460 mg sodium, 490 mg potassium. About 3 servings per pack.
+Per slice (~17 g): 20 kcal, 3.3 P / 0.3 C / 0.5 F. Per 10 g: 11.8 kcal, 1.96 P / 0.2 C / 0.29 F.
+97% fat free, gluten free. Ingredients: pork, water, potassium lactate, salt, sugar, natural flavor, sodium diacetate, sodium phosphates, sodium ascorbate, sodium nitrite. Saved 2026-11-23.
+
+## Canadian bacon, previous brand (3 slices = 64 g)
 70 kcal, 12 P / 2 C / 2 F (0.5 g sat), 0 fiber, 2 g sugar, 550 mg sodium.
 Per 10 g: 11 kcal, 1.9 P / 0.3 C / 0.3 F. Saved 2026-11-17.
 
