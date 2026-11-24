@@ -67,7 +67,13 @@ Serving 1 large egg: 72 kcal, 6 P / 0.5 C / 5 F (estimate; used in the tamale pi
 Usual 3-egg scramble with avocado oil spray (as logged Nov 16–17): 215 kcal, 19 P / 1 C / 15 F.
 No carton photo on file. Saved 2026-11-17.
 
-## Maple syrup (Better Living Brands / Signature Select, 100% maple)
+## 365 Whole Foods Market Organic Dark Maple Syrup (Grade A, dark color robust taste, 32 fl oz)
+Serving 2 tbsp (30 ml): 110 kcal, 0 P / 27 C / 0 F, 0 fiber, 24 g sugar (24 g added), 0 sodium, 30 mg calcium. About 32 servings per bottle.
+Per 15 ml (1 tbsp): 55 kcal, 13.5 C. Per 10 ml: 37 kcal, 9 C.
+By weight (estimated at ~1.32 g/ml, so 30 ml ≈ 40 g): per 10 g ≈ 28 kcal, 6.8 C.
+Ingredients: organic maple syrup. Refrigerate after opening. Saved 2026-11-23.
+
+## Maple syrup, previous brand (Better Living Brands / Signature Select, 100% maple)
 Serving 2 tbsp (30 ml): 110 kcal, 0 P / 26 C / 0 F, 26 g sugar (all added), 0 sodium.
 Per 15 ml (1 tbsp): 55 kcal, 13 C. Per 10 ml: 37 kcal, 8.7 C.
 Source: bottle label photo. Updated 2026-11-17.
