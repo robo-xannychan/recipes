@@ -157,3 +157,10 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 | Baby bell peppers | 120 g | 62 g | ~0.52 | 2026-11-21 |
 | Frozen sweet potato fries (Russet House) | 180 g frozen | 85 g | ~0.47 | 2026-11-21 |
 | Taco beef with Southwest veggies (2 lb 90/10 beef, drained) | — | 1,175 g batch | see recipe | 2026-11 |
+
+## Trader Joe's Tteok Bok Ki (frozen)
+- Package: 16 oz (454 g), rice cakes plus a gochujang sauce packet; about 3 servings.
+- Serving: 1 cup frozen (140 g): 280 kcal, 5P / 61C / 1.5F, 3 g fiber, 10 g sugar (all added), 420 mg sodium.
+- Per 100 g: 200 kcal, 3.6P / 43.6C / 1.1F, 2.1 g fiber.
+- Contains soy and sesame; may contain wheat. No almonds listed.
+- Source: [Trader Joe's product page](https://www.traderjoes.com/home/products/pdp/tteok-bok-ki-071551), added Nov 24, 2026.
