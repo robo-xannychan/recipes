@@ -21,7 +21,11 @@ Makes 2 servings (one for Patricia, one for her husband). First made Nov 24, 202
 2. Add the onion and cabbage and cook until softened, 4–5 minutes. Stir in the garlic and ginger for the last 30–60 seconds, until fragrant.
 3. Add the rice cakes, the sauce packet, and 1 cup water (per package instructions). Simmer, stirring, until the rice cakes are chewy and the sauce thickens.
 
+## Cooked yield
+About 1,133 g cooked (Nov 24, 2026). Per 100 g cooked: ~149 kcal, 10.1P / 19.6C / 3.3F, ~1.5 g fiber.
+
 ## Portioning for Patricia's macros
+- At the 1,133 g yield, about 510 g is ~760 kcal, 51P/100C/17F.
 - Weigh the whole cooked pan (subtract the pan's weight), then weigh her bowl. Her share is her bowl's grams ÷ total grams × the totals above.
 - A half serving is about 845 kcal, a bit over a typical push-day dinner budget of ~750. Taking about 45% of the pan gives ~760 kcal, 51P/100C/17F.
 - Carb-heavy and low fat, so it works as a post-lift dinner. A fried egg on top adds ~70 kcal and 6 g protein.
