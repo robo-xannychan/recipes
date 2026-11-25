@@ -10,6 +10,7 @@ Makes 2 servings (one for Patricia, one for her husband). First made Nov 24, 202
 | Yellow onion, sliced | ~100 g (1 small) | 40 | 1.1 | 9.3 | 0.1 | 1.7 |
 | Garlic, minced | 1 tbsp (~8.5 g) | 13 | 0.5 | 2.8 | 0 | 0.2 |
 | Ginger, fresh grated | 1 tsp (~2 g) | 2 | 0 | 0.4 | 0 | 0 |
+| Water (per package instructions) | 1 cup | 0 | 0 | 0 | 0 | 0 |
 | **Total** | | **1,693** | **114** | **222** | **37** | **16.6** |
 
 ## Per serving (½ of batch)
@@ -18,7 +19,7 @@ Makes 2 servings (one for Patricia, one for her husband). First made Nov 24, 202
 ## Method
 1. Brown the beef in a large skillet and break it up. 93% beef doesn't need extra oil.
 2. Add the onion and cabbage and cook until softened, 4–5 minutes. Stir in the garlic and ginger for the last 30–60 seconds, until fragrant.
-3. Add the rice cakes, the sauce packet, and the water the bag calls for. Simmer, stirring, until the rice cakes are chewy and the sauce thickens.
+3. Add the rice cakes, the sauce packet, and 1 cup water (per package instructions). Simmer, stirring, until the rice cakes are chewy and the sauce thickens.
 
 ## Portioning for Patricia's macros
 - Weigh the whole cooked pan (subtract the pan's weight), then weigh her bowl. Her share is her bowl's grams ÷ total grams × the totals above.
