@@ -31,3 +31,6 @@ Makes 2 servings (one for Patricia, one for her husband). First made Nov 25, 202
 - ~580 g cooked (~48.5%) = **~750 kcal, 80P / 83C / 8.3F, ~4.6 g fiber**.
 - ~710 g cooked (~59.4%) = **~918 kcal, 98P / 101C / 10.1F, ~5.6 g fiber**.
 - Very lean base—easy to add sesame oil, chili crisp, or a fried egg on top of an individual bowl if you have fat room.
+
+## Next-time tweaks
+- Swap out a fraction of the rice and cook with some ketchup (omurice-style) — just soy sauce and hot sauce was bland.
