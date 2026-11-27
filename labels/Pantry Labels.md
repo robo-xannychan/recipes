@@ -164,3 +164,10 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Per 100 g: 200 kcal, 3.6P / 43.6C / 1.1F, 2.1 g fiber.
 - Contains soy and sesame; may contain wheat. No almonds listed.
 - Source: [Trader Joe's product page](https://www.traderjoes.com/home/products/pdp/tteok-bok-ki-071551), added Nov 24, 2026.
+
+## Trader Joe's Oat Chocolate Bars with Crispy Rice & Cocoa Nibs
+- Package: 3 bars (25 g each, 75 g net wt); dairy free, soy free, gluten free, vegan.
+- Serving 1 bar (25 g): 140 kcal, <1P (~1 g) / 14C / 9F (5 g sat, 0 trans), <1 g fiber (~1 g), 9 g sugar (7 g added), 80 mg sodium, 0.9 mg iron.
+- Half bar (12.5 g): 70 kcal, ~0.5P / 7C / 4.5F, ~0.5 g fiber, 4.5 g sugar.
+- Whole box (3 bars, 75 g): 410 kcal, 3P / 42C / 27F, 3 g fiber, 26 g sugar (20 g added), 240 mg sodium.
+- Source: box label photo, saved 2026-11-26.
