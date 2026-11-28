@@ -214,3 +214,8 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Giant 58 oz pie, about 12 slices. Serving 1 slice (133 g): 323 kcal, 5.2P / 46C / 13F (2.6 g sat), 2.4 g fiber, 25 g sugar, 318 mg sodium.
 - Per 100 g: ~243 kcal, 3.9P / 34.6C / 9.8F, 1.8 g fiber.
 - Source: [MyFoodData listing](https://tools.myfooddata.com/nutrition-facts/100228764/wt1) (matches Open Food Facts); no package photo on file. Saved 2026-11-27.
+
+## Fage Total 0% Greek Yogurt (plain, nonfat)
+- About 5 servings per container. Serving 3/4 cup (170 g): 90 kcal, 18P / 5C / 0F, 0 g fiber, 5 g sugar (0 g added), 10 mg cholesterol, 65 mg sodium, 200 mg calcium, 260 mg potassium.
+- Per 100 g: ~53 kcal, 10.6P / 2.9C / 0F.
+- Ingredients: Grade A pasteurized skimmed milk, live active cultures. Consume within 5 days of opening. Source: package photo, saved 2026-11-28.
