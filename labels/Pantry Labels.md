@@ -171,3 +171,9 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Half bar (12.5 g): 70 kcal, ~0.5P / 7C / 4.5F, ~0.5 g fiber, 4.5 g sugar.
 - Whole box (3 bars, 75 g): 410 kcal, 3P / 42C / 27F, 3 g fiber, 26 g sugar (20 g added), 240 mg sodium.
 - Source: box label photo, saved 2026-11-26.
+
+## Marukome White Miso (tub)
+- Serving 1 tbsp (15 g): 20 kcal, 1P / 2C / 0.5F (0 sat), 1 g fiber, 2 g sugar (0 added), 770 mg sodium; about 25 servings per container.
+- Per 100 g: 133 kcal, 6.7P / 13.3C / 3.3F, 6.7 g fiber, 5,133 mg sodium.
+- Ingredients: miso (water, rice, non-GMO soybeans, salt, alcohol), water, alcohol, yeast extract, salt, garlic powder, ginger powder. Contains soy. No almonds listed.
+- Source: tub label photo, saved 2026-11-27.
