@@ -177,3 +177,15 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Per 100 g: 133 kcal, 6.7P / 13.3C / 3.3F, 6.7 g fiber, 5,133 mg sodium.
 - Ingredients: miso (water, rice, non-GMO soybeans, salt, alcohol), water, alcohol, yeast extract, salt, garlic powder, ginger powder. Contains soy. No almonds listed.
 - Source: tub label photo, saved 2026-11-27.
+
+## Red Lobster Cheddar Bay Biscuit Mix (box)
+- About 10 servings per box. Serving: 1 biscuit (32 g mix + seasoning, as packaged): 140 kcal, 2P / 19C / 6F (3 g sat, 0 trans), 0 g fiber, <1 g sugar (0 added), 390 mg sodium, 1.1 mg iron.
+- Whole box (~320 g): ~1,400 kcal, 20P / 190C / 60F, 3,900 mg sodium.
+- Contains wheat, milk, and soy. May contain egg and tree nuts.
+- Source: box label photo, saved 2026-11-27.
+
+## Sargento 4 Cheese Mexican Blend (shredded)
+- 8 servings per bag (~224 g). Serving ¼ cup (28 g): 110 kcal, 7P / 1C / 9F (5 g sat, 0 trans), 0 g fiber, 0 g sugar, 180 mg sodium, 200 mg calcium.
+- Per 100 g: 393 kcal, 25P / 3.6C / 32F, 643 mg sodium.
+- Monterey Jack, asadero, cheddar, and queso quesadilla, with potato starch and powdered cellulose (anti-caking) and natamycin. Contains milk.
+- Source: bag label photo, saved 2026-11-27.
