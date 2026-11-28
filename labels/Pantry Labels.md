@@ -209,3 +209,8 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Ingredients: Yukon Gold potatoes, whole milk, butter, sea salt, potassium sorbate, black pepper. Contains milk.
 - Heat: microwave 4 min on high, stir, then 1 more min; or stovetop with a splash of milk.
 - Source: tub label photo, saved 2026-11-27.
+
+## Kirkland Signature Pumpkin Pie (Costco bakery)
+- Giant 58 oz pie, about 12 slices. Serving 1 slice (133 g): 323 kcal, 5.2P / 46C / 13F (2.6 g sat), 2.4 g fiber, 25 g sugar, 318 mg sodium.
+- Per 100 g: ~243 kcal, 3.9P / 34.6C / 9.8F, 1.8 g fiber.
+- Source: [MyFoodData listing](https://tools.myfooddata.com/nutrition-facts/100228764/wt1) (matches Open Food Facts); no package photo on file. Saved 2026-11-27.
