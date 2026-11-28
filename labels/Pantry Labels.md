@@ -195,3 +195,9 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Per 100 g: ~42 kcal, 0P / 5C / 2.5F, 417 mg sodium. Whole jar: ~150 kcal, 0P / 18C / 9F, 1,500 mg sodium.
 - Ingredients include turkey broth, modified corn starch, chicken fat, cooked white turkey meat, nonfat dry milk, and soy lecithin. Contains wheat, milk, and soy.
 - Source: jar label photo, saved 2026-11-27.
+
+## Stove Top Cornbread Stuffing Mix (box)
+- About 6 servings per 6 oz box. Serving 1/6 box (28 g dry, makes ½ cup): 100 kcal, 3P / 20C / 1F (0 sat, 0 trans), <1 g fiber, 2 g sugar (2 g added), 410 mg sodium, 1 mg iron, 180 mg potassium.
+- Whole box (~170 g): 600 kcal, 18P / 120C / 6F, ~3 g fiber, 2,460 mg sodium.
+- Contains wheat and soy; includes MSG and dried cooked chicken.
+- Source: box label photo, saved 2026-11-27.
