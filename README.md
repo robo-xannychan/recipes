@@ -7,6 +7,7 @@ Shared recipes with macros (per 100 g cooked and per serving). Synced from Patri
 - [Extra Special Cheddar Bay Biscuits](Extra%20Special%20Cheddar%20Bay%20Biscuits.md)
 - [High-Protein Chicken Fried Rice](High-Protein%20Chicken%20Fried%20Rice.md)
 - [Miso Maple Butter](Miso%20Maple%20Butter.md)
+- [Stovetop Cornbread Stuffing](Stovetop%20Cornbread%20Stuffing.md)
 - [Taco Beef with Southwest Veggies](Taco%20Beef%20with%20Southwest%20Veggies.md)
 - [Tamale Pie](Tamale%20Pie.md)
 
