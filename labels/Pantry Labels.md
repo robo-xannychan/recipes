@@ -202,8 +202,10 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Contains wheat and soy; includes MSG and dried cooked chicken.
 - Source: box label photo, saved 2026-11-27.
 
-## Main St Bistro Steakhouse Yukon Gold Mashed Potatoes
-- **20 oz tub** (~4.5 servings): ½ cup (124 g) = 150 kcal, 3P / 17C / 6F (4 g sat), 2 g fiber, 2 g sugar, 480 mg sodium. Per 100 g: ~121 kcal, 2.4P / 13.7C / 4.8F.
-- **28 oz family size** (6 servings): ½ cup (140 g) = 150 kcal, 3P / 19C / 7F (4.5 g sat), 2 g fiber, 2 g sugar (0 added), 550 mg sodium. Per 100 g: ~107 kcal, 2.1P / 13.6C / 5F.
-- Ingredients: Yukon Gold potatoes, whole milk, butter, sea salt, black pepper, potassium sorbate. Contains milk.
-- Source: [Main St Bistro 20 oz page](https://mainstbistro.com/product/steakhouse-mashed-potatoes/) and [family size page](https://mainstbistro.com/product/steakhouse-yukon-gold-mashed-potatoes-family-size/) (fat for the family size taken from Safeway's listing, since the brand page has a typo). Some retailer listings show 130 kcal / 7F / 5P for the 20 oz, so confirm against the tub label. Saved 2026-11-27.
+## Main St Bistro Steakhouse Yukon Gold Mashed Potatoes (Family Size, 28 oz)
+- Tub: 28 oz (794 g), about 6 servings. Serving ½ cup (140 g): 150 kcal, 3P / 19C / 7F (4.5 g sat, 0 trans), 2 g fiber, 2 g sugar (0 added), 550 mg sodium, 20 mg cholesterol, 380 mg potassium.
+- Per 100 g: ~107 kcal, 2.1P / 13.6C / 5F, 1.4 g fiber, 393 mg sodium.
+- Whole tub: ~850 kcal, 17P / 108C / 40F, ~11 g fiber, ~3,120 mg sodium.
+- Ingredients: Yukon Gold potatoes, whole milk, butter, sea salt, potassium sorbate, black pepper. Contains milk.
+- Heat: microwave 4 min on high, stir, then 1 more min; or stovetop with a splash of milk.
+- Source: tub label photo, saved 2026-11-27.
