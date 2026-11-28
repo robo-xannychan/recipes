@@ -189,3 +189,9 @@ Use to convert cooked weights back to raw for logging. Air fried unless noted.
 - Per 100 g: 393 kcal, 25P / 3.6C / 32F, 643 mg sodium.
 - Monterey Jack, asadero, cheddar, and queso quesadilla, with potato starch and powdered cellulose (anti-caking) and natamycin. Contains milk.
 - Source: bag label photo, saved 2026-11-27.
+
+## Heinz Turkey Gravy (jar)
+- About 6 servings per jar (~360 g). Serving ¼ cup (60 g): 25 kcal, 0P / 3C / 1.5F (0 sat, 0 trans), 0 g fiber, 0 g sugar, 250 mg sodium.
+- Per 100 g: ~42 kcal, 0P / 5C / 2.5F, 417 mg sodium. Whole jar: ~150 kcal, 0P / 18C / 9F, 1,500 mg sodium.
+- Ingredients include turkey broth, modified corn starch, chicken fat, cooked white turkey meat, nonfat dry milk, and soy lecithin. Contains wheat, milk, and soy.
+- Source: jar label photo, saved 2026-11-27.
